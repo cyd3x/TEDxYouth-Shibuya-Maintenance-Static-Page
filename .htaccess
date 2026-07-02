@@ -1,0 +1,2 @@
+# Force the server to look for index.html first
+DirectoryIndex index.html index.php
